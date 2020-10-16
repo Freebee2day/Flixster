@@ -38,7 +38,7 @@ public class DetailActivity extends YouTubeBaseActivity{
         setContentView(R.layout.activity_detail);
 
         //why can't move above super???
-        //they are instance variable => need to create instance first before initiating the attributes. 
+        //they are instance variable => need to create instance first before initiating the attributes.
         tvDName = findViewById(R.id.tvDName);
         tvDSummary = findViewById(R.id.tvDSummary);
         ratingBar = findViewById(R.id.ratingBar);
