@@ -11,9 +11,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ea0d7a5-e87c-4cf9-a4ef-0892474174a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/flixster/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/flixster/DetailActivity.java" afterDir="false" />
-    </list>
+    <list default="true" id="2ea0d7a5-e87c-4cf9-a4ef-0892474174a7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602823089347</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added DetailActivity with Youtube trailer.">
+      <created>1602824683049</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602824683049</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -178,10 +183,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="605" y="202" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1602543443833" />
-    <state x="402" y="6" key="CommitChangelistDialog2" timestamp="1602823086976">
+    <state x="402" y="6" key="CommitChangelistDialog2" timestamp="1602824680400">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="402" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602823086976" />
+    <state x="402" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602824680400" />
     <state x="421" y="170" key="FileChooserDialogImpl" timestamp="1602780551542">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -226,10 +231,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="305" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602537267291" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602824656476">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602824699937">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602824656476" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602824699937" />
     <state x="19" y="159" width="1350" height="638" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1602805444545">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
